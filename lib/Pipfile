@@ -29,7 +29,7 @@ sphinx-rtd-theme = "*"
 [packages]
 # IMPORTANT: We should try very hard *not* to add dependencies to Streamlit.
 # And if you do add one, make the required version as general as possible.
-altair = ">=3.2.0"
+altair = ">=6.2.2"
 astor = "*"
 base58 = "*"
 blinker = "*"
